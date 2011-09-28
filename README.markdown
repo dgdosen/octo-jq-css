@@ -1,3 +1,11 @@
+## What is this app doing?
+
+* Take a typical octopress site
+* Experiment with adding support for jquery, jquery UI
+* Experiment with mucking with the site CSS
+* Leave this open.  Maybe even generate a pull request back to jekyll or octopress.
+
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
